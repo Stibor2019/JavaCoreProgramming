@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 //   && -> USLOVNI AND
 //   || -> USLOVNI OR
-public class ConditionalDemo1 {
+class ConditionalDemo1 {
 
     public static void main(String[] args) {
         System.out.println("Unesi starost: ");

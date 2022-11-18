@@ -43,8 +43,9 @@ public class SwitchDemo2 {
                 }
                 break;
             default:
-                brojDanaMjeseca = 0;
-
-                System.out.println("Broj dana u mjesecu :" + brojDanaMjeseca);
+                brojDanaMjeseca = -1;
         }
-    }}
+
+                System.out.println("Broj dana u mjesecu : " + brojDanaMjeseca);
+        }
+    }

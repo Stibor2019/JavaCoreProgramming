@@ -9,7 +9,7 @@ package two;
  *     1.2 odredišni tip veći od polaznog
  *  2. EKSPLICITNA
  */
-public class QuestionExecutor {
+class QuestionExecutor {
     public static void main(String[] args) {
         //64 decimal number
         double doubleNumber = 23999.0;

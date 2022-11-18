@@ -16,9 +16,9 @@ public class SwitchDemo {
         int redniBrojDana = new Scanner(System.in).nextInt();
 
         if (redniBrojDana < 1 || redniBrojDana > 7) {
-            System.out.println("Prvo naučite koliko sedmica ima dana pa onda Njemački..");}
-        else {
-            switch(redniBrojDana){
+            System.out.println("Prvo naučite koliko sedmica ima dana pa onda Njemački..");
+        } else {
+            switch (redniBrojDana) {
                 case 1:
                     System.out.println("Montag");
                     break;
@@ -43,4 +43,5 @@ public class SwitchDemo {
                 default:
                     System.out.println("Prvo naučite koliko sedmica ima dana pa onda Njemački..");
             }
-
+        }
+    }}

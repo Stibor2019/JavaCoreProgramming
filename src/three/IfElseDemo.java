@@ -1,6 +1,5 @@
 package three;
 
-package three.control;
 
 import java.util.Scanner;
 
@@ -8,7 +7,7 @@ import java.util.Scanner;
 // y = 2x
 // x = 1  -> y = 2
 // x = 2 -> y = 4
-public class IfElseDemo {
+      public class IfElseDemo {
     public static void main(String[] args) {
         System.out.println("Profa unesite broj poena na ispitu:");
         int brojBodova = new Scanner(System.in).nextInt();

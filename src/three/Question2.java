@@ -11,7 +11,7 @@ import java.util.Scanner;
  * double -> Double
  *
  */
-public class Question2Demo {
+class Question2Demo {
     public static void main(String[] args) {
         System.out.println("Unesi tekstualno cijeli broj");
         String text = JOptionPane.showInputDialog("Unesi broj");

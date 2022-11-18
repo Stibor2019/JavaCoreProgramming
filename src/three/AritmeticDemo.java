@@ -5,7 +5,8 @@ import java.util.Scanner;
 
 //System.out.println();
 //new Scanner(System.in).nextInt();
-public class ArithmeticDemo {
+class  ArithmeticDemo
+{
     public static void main(String[] args) {
         System.out.println("Unesi prvi cijeli broj:");
         double number1 = new Scanner(System.in).nextDouble();

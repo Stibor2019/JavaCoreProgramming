@@ -1,7 +1,7 @@
 package three;
 
 
-public class BitOperators {
+ class bitOperators {
     public static void main(String[] args) {
         int number = 6;
         number = number>>1;
